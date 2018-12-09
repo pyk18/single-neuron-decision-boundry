@@ -20,12 +20,12 @@ Your program should also include 3 sliders, 2 buttons, and one drop down selecti
 
  
 ### Buttons
-- __Button1:__ Train. Clicking this button should adjust the weights and bias for 100 steps using the learning rule. Wnew =Wold+ epT  where  e = t – a
-- __Button 2:__ Create random data. Assuming that there are only two possible target values 1 and -1 (two classes), this button should create 4 random data points (two points for each class). The range of data points should be from -10 to 10 for both dimensions.
+- __Button1:__ Train. Clicking this button should adjust the weights and bias for 100 steps using the learning rule. `Wnew =Wold + epT`  where  `e = t – a`
+- __Button 2:__ Create random data. Assuming that there are only two possible target values `1 and -1 (two classes)`, this button should create 4 random data points (two points for each class). The range of data points should be from `-10 to 10` for both dimensions.
 
  
 ## Drop Down Selection.
-- The drop down box should allow the user to select between three transfer functions (Symmetrical Hard limit, Hyperbolic Tangent, and Linear)
+- The drop down box should allow the user to select between three transfer functions `(Symmetrical Hard limit, Hyperbolic Tangent, and Linear)`
 
  
 ### Notes:
