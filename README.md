@@ -1,5 +1,7 @@
 # Single Neuron Decision Boundary.
 
+Project Description: http://ranger.uta.edu/~kamangar/CSE-5368-FA18/Assignment02(Duedate.Sept.23,2018).html
+
 ### __Description__  
 Apply decision boundary to set of numbers on 2D coordinates.
 The purpose of the this assignment is to practice with a `single neuron decision boundary and learning rule.`
